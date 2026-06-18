@@ -1,0 +1,9 @@
+[submodule "esp32-mqtt-telemetry"]
+	path = esp32-mqtt-telemetry
+	url = git@github.com:dalKonstantin/esp32-mqtt-telemetry.git
+[submodule "telemetry-gateway"]
+	path = telemetry-gateway
+	url = git@github.com:dalKonstantin/telemetry-gateway.git
+[submodule "telemetry-gateway-frontend"]
+	path = telemetry-gateway-frontend
+	url = git@github.com:dalKonstantin/telemetry-gateway-frontend.git
